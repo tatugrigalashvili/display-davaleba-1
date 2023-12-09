@@ -1,0 +1,32 @@
+
+body{
+    background-color: #DAA520;
+}
+div{
+    display: inline-block;
+}
+/*box 1*/
+.box1{
+    width: 365px;
+    height: 365px;
+    background-color: #297E40;
+    margin-top: 32px;
+    margin-left: 32px;
+    border-radius: 12px;
+}
+/*box 2*/
+.box2{
+    width: 365px;
+    height: 365px;
+    background-color: #8E2877;
+    border-radius: 90px;
+    margin-left: 35px;
+}
+/*box 3*/
+.box3{
+    width: 365px;
+    height: 365px;
+    background-color: #361BA4;
+    margin-left: 35px;
+    border-radius: 20px;
+}
